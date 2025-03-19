@@ -14,7 +14,7 @@ This step-by-step guide will walk you through creating a Conda environment and i
 
 ## ✅ **Step 1: Install Anaconda or Miniconda**
 
-1. Download and install [Anaconda](https://www.anaconda.com/products/distribution#download-section) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
+1. Download and install [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
 2. Follow the installation instructions for your operating system.
 3. Confirm installation by running the following command in your terminal or command prompt:
 
