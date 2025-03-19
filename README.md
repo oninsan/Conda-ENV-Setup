@@ -111,5 +111,5 @@ If no errors are shown, you're good to go! 🎉
 - Use `conda deactivate` to exit the environment.
 - To remove the environment, run `conda env remove -n my_env`.
 
-Enjoy coding with your new Conda environment! 🐍✨
+Wa unta ninyo gi uli ang CP ni patrick!!!
 
