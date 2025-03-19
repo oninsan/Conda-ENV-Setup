@@ -30,7 +30,7 @@ conda --version
 2. Run the following command to create a new environment named `my_env` with Python 3.11:
 
 ```bash
-conda create -n my_env python=3.11
+conda create -n my_env python=3.10.12
 ```
 
 3. Activate the environment:
