@@ -109,7 +109,7 @@ If no errors are shown, you're good to go! 🎉
 ## 🚀 **Final Tips**
 - Use `conda list` to view all installed packages.
 - Use `conda deactivate` to exit the environment.
-- To remove the environment, run `conda env remove -n my_env`.
+- To remove the environment, run `conda env remove -n my_env` (I Run lang kong ganahan ka i delete ang imong kernel).
 
 # Wa unta ninyo gi uli ang CP ni patrick!!!
 
