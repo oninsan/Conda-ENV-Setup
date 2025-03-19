@@ -111,5 +111,5 @@ If no errors are shown, you're good to go! 🎉
 - Use `conda deactivate` to exit the environment.
 - To remove the environment, run `conda env remove -n my_env`.
 
-Wa unta ninyo gi uli ang CP ni patrick!!!
+# Wa unta ninyo gi uli ang CP ni patrick!!!
 
